@@ -1,0 +1,1081 @@
+{
+  "schema": "sinbiseo-backup",
+  "version": 1,
+  "exportedAt": "2026-04-23T06:38:11.418Z",
+  "data": {
+    "sinbiseo_tracker_v2": {
+      "pensions": [
+        {
+          "m": "9월",
+          "name": "여수 플로라펜션",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 12,
+          "id": 1,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "9월",
+          "name": "강릉 더넥스트 펜션",
+          "comm": 16,
+          "simRev": 87681500,
+          "dur": 12,
+          "id": 2,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "10월",
+          "name": "강릉 파인힐파크펜션&카라반",
+          "comm": 17.6,
+          "simRev": 161027038,
+          "dur": 6,
+          "id": 3,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "10월",
+          "name": "고성 멍스테이",
+          "comm": 15,
+          "simRev": 83436469,
+          "dur": 12,
+          "id": 4,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "10월",
+          "name": "양평 솔부프크 풀빌라",
+          "comm": 17.6,
+          "simRev": 159678438,
+          "dur": 12,
+          "id": 5,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "10월",
+          "name": "강릉 뮤튼롤",
+          "comm": 15,
+          "simRev": 237138425,
+          "dur": 12,
+          "id": 6,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "10월",
+          "name": "속초 지세다 풀빌라",
+          "comm": 15,
+          "simRev": 1152487769,
+          "dur": 6,
+          "id": 7,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "10월",
+          "name": "강화 노을담채",
+          "comm": 17.6,
+          "simRev": 140075031,
+          "dur": 6,
+          "id": 8,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "10월",
+          "name": "가평 개댁 펜션",
+          "comm": 16.5,
+          "simRev": 64305581,
+          "dur": 6,
+          "id": 9,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "10월",
+          "name": "강화 아보하 애견동반펜션",
+          "comm": 17.6,
+          "simRev": 69089481,
+          "dur": 6,
+          "id": 10,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "10월",
+          "name": "부안 오션빌리지",
+          "comm": 17,
+          "simRev": 327161431,
+          "dur": 6,
+          "id": 11,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "10월",
+          "name": "거제 펜션칸",
+          "comm": 16.5,
+          "simRev": 0,
+          "dur": 6,
+          "id": 12,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "11월",
+          "name": "속초 밤하늘글램핑",
+          "comm": 15.5,
+          "simRev": 288853706,
+          "dur": 6,
+          "id": 13,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "11월",
+          "name": "속초 밤하늘펜션",
+          "comm": 15.5,
+          "simRev": 97694406,
+          "dur": 6,
+          "id": 14,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "11월",
+          "name": "영덕 씨레스트",
+          "comm": 15.5,
+          "simRev": 139780019,
+          "dur": 6,
+          "id": 15,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "11월",
+          "name": "홍천 여유채",
+          "comm": 16.5,
+          "simRev": 186891688,
+          "dur": 6,
+          "id": 16,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "11월",
+          "name": "보령 라바풀빌라",
+          "comm": 15,
+          "simRev": 233021531,
+          "dur": 6,
+          "id": 17,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "11월",
+          "name": "가평 멍스테이 펜션",
+          "comm": 17.6,
+          "simRev": 59029169,
+          "dur": 6,
+          "id": 18,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "11월",
+          "name": "가평 스테이코지멍풀빌라",
+          "comm": 17.6,
+          "simRev": 104648750,
+          "dur": 6,
+          "id": 19,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "11월",
+          "name": "강화 아이엠 글램핑",
+          "comm": 16.5,
+          "simRev": 546656888,
+          "dur": 6,
+          "id": 20,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "11월",
+          "name": "강릉 언덕위에펜션",
+          "comm": 17.6,
+          "simRev": 22208038,
+          "dur": 6,
+          "id": 21,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "11월",
+          "name": "양양 헤세드펜션",
+          "comm": 17.6,
+          "simRev": 21833333,
+          "dur": 6,
+          "id": 22,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "11월",
+          "name": "고성 더웨이브 펜션",
+          "comm": 15,
+          "simRev": 185013006,
+          "dur": 6,
+          "id": 23,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "11월",
+          "name": "강릉 그곳펜션",
+          "comm": 17.6,
+          "simRev": 75388375,
+          "dur": 6,
+          "id": 24,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "11월",
+          "name": "강릉 소소한가",
+          "comm": 17.6,
+          "simRev": 34487644,
+          "dur": 6,
+          "id": 25,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "11월",
+          "name": "양양 서프쉑",
+          "comm": 15,
+          "simRev": 194753619,
+          "dur": 6,
+          "id": 26,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "11월",
+          "name": "양평 글램퍼스",
+          "comm": 17.6,
+          "simRev": 116526069,
+          "dur": 6,
+          "id": 27,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "11월",
+          "name": "양평 나린숨",
+          "comm": 17.6,
+          "simRev": 113206163,
+          "dur": 6,
+          "id": 28,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "11월",
+          "name": "울진 씨앤모먼트",
+          "comm": 17.6,
+          "simRev": 138120625,
+          "dur": 6,
+          "id": 29,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "11월",
+          "name": "영덕 달토 풀빌라 글램핑",
+          "comm": 15,
+          "simRev": 46737417,
+          "dur": 6,
+          "id": 30,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "11월",
+          "name": "강릉 스테이밋",
+          "comm": 15,
+          "simRev": 69752375,
+          "dur": 6,
+          "id": 31,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "12월",
+          "name": "경주 지상낙원 독채 펜션",
+          "comm": 17.6,
+          "simRev": 24375000,
+          "dur": 6,
+          "id": 32,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "12월",
+          "name": "경주 스페이스풀빌라",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 12,
+          "id": 33,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "12월",
+          "name": "경주 팰리스한옥키즈풀빌라",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 12,
+          "id": 34,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "12월",
+          "name": "울주 여운풀빌라",
+          "comm": 15,
+          "simRev": 0,
+          "dur": 6,
+          "id": 35,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "12월",
+          "name": "거제 씨엔블루패밀리",
+          "comm": 15,
+          "simRev": 5111000,
+          "dur": 6,
+          "id": 36,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "12월",
+          "name": "거제 공간풀빌라",
+          "comm": 15,
+          "simRev": 21312000,
+          "dur": 6,
+          "id": 37,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "12월",
+          "name": "경주 헤이브리즈",
+          "comm": 17.6,
+          "simRev": 127044400,
+          "dur": 6,
+          "id": 38,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "12월",
+          "name": "고성 산들바다글램핑&펜션",
+          "comm": 15,
+          "simRev": 86030419,
+          "dur": 12,
+          "id": 39,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "12월",
+          "name": "경주 산마루펜션",
+          "comm": 17.6,
+          "simRev": 74400690,
+          "dur": 12,
+          "id": 40,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "12월",
+          "name": "경주 어썸웨이풀빌라",
+          "comm": 17.6,
+          "simRev": 65340000,
+          "dur": 12,
+          "id": 41,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "12월",
+          "name": "고성 1박2일펜션",
+          "comm": 17.6,
+          "simRev": 77758000,
+          "dur": 12,
+          "id": 42,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "12월",
+          "name": "강화 엘리야 풀빌라",
+          "comm": 15,
+          "simRev": 0,
+          "dur": 12,
+          "id": 43,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "12월",
+          "name": "가평 루바펜션",
+          "comm": 17.6,
+          "simRev": 31734600,
+          "dur": 12,
+          "id": 44,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "1월",
+          "name": "영흥도 신축펜션",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 12,
+          "id": 45,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "1월",
+          "name": "속초 헤이마이그린 독채펜션",
+          "comm": 15,
+          "simRev": 183723820,
+          "dur": 6,
+          "id": 46,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "1월",
+          "name": "양양 오션스테이",
+          "comm": 15,
+          "simRev": 17159360,
+          "dur": 12,
+          "id": 47,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "1월",
+          "name": "삼척 더끌림",
+          "comm": 17.6,
+          "simRev": 52701330,
+          "dur": 12,
+          "id": 48,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "1월",
+          "name": "강릉 스테이그곳",
+          "comm": 17.6,
+          "simRev": 41562520,
+          "dur": 12,
+          "id": 49,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "1월",
+          "name": "원주 힐링포레스트",
+          "comm": 17.6,
+          "simRev": 42061400,
+          "dur": 12,
+          "id": 50,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "1월",
+          "name": "강릉 스테이108",
+          "comm": 17.6,
+          "simRev": 49406200,
+          "dur": 12,
+          "id": 51,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "1월",
+          "name": "태안 바다멍풀빌라",
+          "comm": 17.6,
+          "simRev": 20385000,
+          "dur": 12,
+          "id": 52,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "1월",
+          "name": "거제 레인보우풀빌라",
+          "comm": 17.6,
+          "simRev": 71519950,
+          "dur": 12,
+          "id": 53,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "2월",
+          "name": "울주 소소재",
+          "comm": 15,
+          "simRev": 110412000,
+          "dur": 12,
+          "id": 54,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "2월",
+          "name": "여수 거북선펜션",
+          "comm": 17.6,
+          "simRev": 7675000,
+          "dur": 12,
+          "id": 55,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "2월",
+          "name": "태안 요요키즈풀빌라",
+          "comm": 17.6,
+          "simRev": 46095000,
+          "dur": 12,
+          "id": 56,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "2월",
+          "name": "강릉 강문스테이",
+          "comm": 15,
+          "simRev": 0,
+          "dur": 12,
+          "id": 57,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "2월",
+          "name": "거제 라움펜션",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 12,
+          "id": 58,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "2월",
+          "name": "무의도 해둥실펜션",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 12,
+          "id": 59,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "3월",
+          "name": "경주 루나힐",
+          "comm": 15,
+          "simRev": 0,
+          "dur": 6,
+          "id": 60,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "3월",
+          "name": "춘천 래빗스타",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 6,
+          "id": 61,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "3월",
+          "name": "강릉 우진풀빌라",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 6,
+          "id": 62,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "3월",
+          "name": "포천 테라스527",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 6,
+          "id": 63,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "3월",
+          "name": "고성 네츄럴하우스",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 6,
+          "id": 64,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "3월",
+          "name": "통영 동피랑101",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 12,
+          "id": 65,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "3월",
+          "name": "강릉 오랍돌이",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 6,
+          "id": 66,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "3월",
+          "name": "가평퍼니멍멍 갤럭시하우스",
+          "comm": 13,
+          "simRev": 0,
+          "dur": 12,
+          "id": 67,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "3월",
+          "name": "가평퍼니멍멍 다솜점",
+          "comm": 13,
+          "simRev": 0,
+          "dur": 12,
+          "id": 68,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "3월",
+          "name": "홍천 휴토피아 글램핑",
+          "comm": 12,
+          "simRev": 0,
+          "dur": 12,
+          "id": 69,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "3월",
+          "name": "강릉 굿캠핑",
+          "comm": 13,
+          "simRev": 0,
+          "dur": 12,
+          "id": 70,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "3월",
+          "name": "통영 프레전트",
+          "comm": 13,
+          "simRev": 0,
+          "dur": 12,
+          "id": 71,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "3월",
+          "name": "가평 휴910",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 6,
+          "id": 72,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "3월",
+          "name": "양양 애견동반 옐로우스탑펜션",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 6,
+          "id": 73,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "3월",
+          "name": "양양 제이오션뷰",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 6,
+          "id": 74,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "3월",
+          "name": "양양 리틀포레스트",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 6,
+          "id": 75,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "3월",
+          "name": "춘천 몰디브 설리조트",
+          "comm": 10,
+          "simRev": 0,
+          "dur": 12,
+          "id": 76,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "3월",
+          "name": "여수 안단테펜션",
+          "comm": 15,
+          "simRev": 0,
+          "dur": 12,
+          "id": 77,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "3월",
+          "name": "여수 복자펜션",
+          "comm": 15,
+          "simRev": 0,
+          "dur": 12,
+          "id": 78,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "3월",
+          "name": "가평 남이포레풀빌라",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 6,
+          "id": 79,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "4월",
+          "name": "고성 라헨느H동",
+          "comm": 16,
+          "simRev": 0,
+          "dur": 6,
+          "id": 80,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "4월",
+          "name": "거제 핑스애견펜션",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 6,
+          "id": 81,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "4월",
+          "name": "거제 이리온애견펜션",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 6,
+          "id": 82,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "4월",
+          "name": "가평 클럽보드",
+          "comm": 15,
+          "simRev": 0,
+          "dur": 6,
+          "id": 83,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "4월",
+          "name": "포천 라비앤로즈",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 6,
+          "id": 84,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "4월",
+          "name": "양양 이당펜션",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 6,
+          "id": 85,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "4월",
+          "name": "강릉 가주강릉 스테이",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 6,
+          "id": 86,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "4월",
+          "name": "춘천 해피스데이",
+          "comm": 10,
+          "simRev": 0,
+          "dur": 12,
+          "id": 87,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "4월",
+          "name": "여수 세영쉼스테이",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 6,
+          "id": 88,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        },
+        {
+          "m": "4월",
+          "name": "강화 글로리아펜션",
+          "comm": 17.6,
+          "simRev": 0,
+          "dur": 6,
+          "id": 89,
+          "type": "existing",
+          "deleted": false,
+          "status": "활성"
+        }
+      ],
+      "nextId": 90
+    },
+    "sinbiseo_plan_v3": {
+      "planStaff": [
+        {
+          "man": 2,
+          "staff": 2,
+          "newbie": 2,
+          "rot": 0
+        },
+        {
+          "man": 2,
+          "staff": 3,
+          "newbie": 2,
+          "rot": 0
+        },
+        {
+          "man": 2,
+          "staff": 4,
+          "newbie": 2,
+          "rot": 1
+        },
+        {
+          "man": 2,
+          "staff": 5,
+          "newbie": 1,
+          "rot": 1
+        },
+        {
+          "man": 2,
+          "staff": 6,
+          "newbie": 1,
+          "rot": 1
+        },
+        {
+          "man": 2,
+          "staff": 6,
+          "newbie": 0,
+          "rot": 2
+        },
+        {
+          "man": 2,
+          "staff": 6,
+          "newbie": 0,
+          "rot": 2
+        },
+        {
+          "man": 2,
+          "staff": 6,
+          "newbie": 0,
+          "rot": 2
+        },
+        {
+          "man": 2,
+          "staff": 6,
+          "newbie": 0,
+          "rot": 2
+        }
+      ],
+      "planCancel": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "planProdOvr": {},
+      "planIncState": {
+        "g135_price": "135000000",
+        "g135_incomeRate": "8.6",
+        "g135_1y": "0",
+        "g135_2y": "0",
+        "g300_price": "300000000",
+        "g300_incomeRate": "0",
+        "g300_1y": "0",
+        "g300_2y": "0"
+      },
+      "sidebarVals": {
+        "s_curCon": "86",
+        "s_tgtCon": "200",
+        "s_jan3C": "54",
+        "s_jan3R": "5844721231",
+        "s_peak1": "7",
+        "s_peak2": "8",
+        "s_avgRev": "135000000",
+        "s_baseComm": "17.6"
+      }
+    }
+  }
+}
